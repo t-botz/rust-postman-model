@@ -1,0 +1,9 @@
+[package]
+name = "postman-model"
+version = "0.1.0"
+authors = ["Tibo <delor.thibault@gmail.com>"]
+
+[dependencies]
+serde = "*"
+serde_json = "*"
+serde_derive = "*"
